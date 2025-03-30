@@ -38,7 +38,7 @@ export function Header() {
 
                 <div className="flex items-center space-x-2">
                     <div className="h-8 w-8 rounded-full bg-red-100 flex items-center justify-center text-red-600 font-semibold">
-                        K
+                        P
                     </div>
 
                     <div className="hidden sm:flex sm:flex-col sm:text-sm">
